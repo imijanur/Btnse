@@ -1,6 +1,6 @@
 from flask import Flask
-from nsetools import Nse
-from nsepy import history_data
+#from nsetools import Nse
+#from nsepy import history_data
 
 app = Flask(__name__)
 
